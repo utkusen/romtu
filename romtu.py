@@ -40,7 +40,7 @@ def similarity_compare(word1, word2):
 
 #searches given word and postag in parsed zemberek wordlist
 def find_postag(word,postag):
-	with open('zemberekparse.txt',"r") as zemberek:	
+	with open('zemberekparse.bin',"r") as zemberek:	
 		for line in zemberek:
 			if word+postag in line:
 				if line.split(" ")[0].startswith(word):
