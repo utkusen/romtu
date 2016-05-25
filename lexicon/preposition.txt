@@ -1,0 +1,6 @@
+alt
+üst
+yakın
+kenar
+yan
+ara

@@ -1,0 +1,5 @@
+gün
+ay
+hafta
+saat
+dakika

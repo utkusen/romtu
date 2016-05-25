@@ -1,0 +1,17 @@
+göz
+kulak
+ağız
+dudak
+kol
+gövde
+kalp
+ciğer
+parmak
+tırnak
+saç
+kemik
+diz
+sakal
+mide
+omuz
+karın

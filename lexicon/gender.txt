@@ -1,0 +1,4 @@
+kız
+kadın
+erkek
+adam

@@ -1,0 +1,8 @@
+vapur
+tren
+araba
+otobüs
+sandal
+tekne
+gemi
+yelkenli

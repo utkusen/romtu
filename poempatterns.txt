@@ -1,0 +1,68 @@
+<pattern number=0 theme=siir>
+bir season time "[Noun]+[A3sg]+SH[P3sg]+[Nom]-YDH[Verb+Past]+[A3sg]"
+nadjective "[Adj]-YDH[Verb+Past]+m[A1sg]" işte
+pverbi "[Verb]+[Pos]-DHk[Noun+PastPart]+[A3sg]+Hn[P2sg]+[Nom]" gender
+pverbi "[Verb]+mA[Neg]+z[Aor]+[A3sg]" pronoun "[Pron]+[Pers]+[A2sg]+[Pnon]+NH[Acc]" üstelik
+
+sen nadjective person
+nverb "[Verb]+[Pos]-DHk[Noun+PastPart]+[A3sg]+Hm[P1sg]+NH[Acc]" bilmelisin
+o nadjective yerde
+date "[Noun]+lAr[A3pl]+[Pnon]+[Nom]" nverb "[Verb]+[Pos]-YHncA[Adv+When]" aniden
+</pattern>
+
+<pattern number=1 theme=siir>
+ne diye nverb "[Verb]-Hl[Verb+Pass]+[Pos]+Hr[Aor]+sHn[A2sg]"
+o nadjective location "[Noun]+[A3sg]+[Pnon]+DA[Loc]"
+padjective "[Adj]-sHn[Verb+Pres+A2sg]" işte
+padjective bir animal gibi
+
+date "[Noun]+lAr[A3pl]+[Pnon]+[Nom]" ncolor içindeydi
+plant "[Noun]+lAr[A3pl]+[Pnon]+[Nom]" nadjective bugün
+nverb "[Verb]-Hn[Verb+Pass]+[Pos]+Hyor[Prog1]+YHm[A1sg]" işte
+nadjective bir animal gibi
+</pattern>
+
+<pattern number=2 theme=siir>
+animal "[Noun]+lAr[A3pl]+[Pnon]+[Nom]" pverba "[Verb]+[Pos]+DH[Past]+[A3sg]"
+nadjective gender "[Noun]+lAr[A3pl]+[Pnon]+[Nom]" gibi
+weather bir location "[Noun]+[A3sg]+[Pnon]+DA[Loc]"
+nadjective season gibi
+
+vehicle "[Noun]+lAr[A3pl]+[Pnon]+[Nom]" verb "[Verb]+mA[Neg]+z[Aor]+[A3sg]" artık
+beverage da verb "[Verb]-Hl[Verb+Pass]+mA[Neg]+z[Aor]+[A3sg]"
+season nverb "[Verb]+mA[Neg]+z[Aor]+[A3sg]" artık
+pfeeling verb "[Verb]-Hl[Verb+Pass]+mA[Neg]+z[Aor]+[A3sg]"
+</pattern>
+
+<pattern number=3 theme=siir>
+bir gender "[Noun]+[A3sg]+SH[P3sg]+[Nom]" pverbi "[Verb]+[Pos]+Hyor[Prog1]+YDH[Past]+m[A1sg]"
+weather location "[Noun]+[A3sg]+[Pnon]+NHn[Gen]" preposition "[Noun]+[A3sg]+SH[P3sg]+NDA[Loc]"
+planet gibiydi bodypart "[Noun]+[A3sg]+SH[P3sg]+[Nom]"
+nadjective season "[Noun]+[A3sg]+[Pnon]+DA[Loc]"
+
+vehicle "[Noun]+lAr[A3pl]+[Pnon]+[Nom]" verb "[Verb]+[Pos]+Hyor[Prog1]+[A3sg]+YDH[Past]"
+weather location "[Noun]+[A3sg]+[Pnon]+NHn[Gen]" preposition "[Noun]+[A3sg]+SH[P3sg]+NDA[Loc]"
+animal "[Noun]+lAr[A3pl]+[Pnon]+[Nom]" verb "[Verb]+[Pos]+Hyor[Prog1]+[A3sg]+YDH[Past]"
+nadjective "[Adj]-CA[Adj+AsIf]"
+</pattern>
+
+<pattern number=4 theme=siir>
+time "[Noun]+[A3sg]+[Pnon]+NHn[Gen]" nverb "[Verb]+[Pos]-DHk[Noun+PastPart]+[A3sg]+SH[P3sg]+[Nom]" bu date "[Noun]+lAr[A3pl]+[Pnon]+DA[Loc]"
+nfeeling içinde pverbi "[Verb]+[Pos]+Hyor[Prog1]+YHm[A1sg]" pronoun "[Pron]+[Pers]+[A2sg]+[Pnon]+NH[Acc]" nadjective "[Adj]-CA[Adj+AsIf]"
+ve sen
+bir gender "[Noun]+[A3sg]+[Pnon]+YlA[Ins]" pverbw "[Verb]+[Pos]+Hyor[Prog1]+sHn[A2sg]" nadjective "[Adj]-CA[Adj+AsIf]"
+ve ben
+weather bir location "[Noun]+[A3sg]+[Pnon]+DA[Loc]-YHm[Verb+Pres+A1sg]"
+plant "[Noun]+lAr[A3pl]+[Pnon]+[Nom]" bile nadjective burada
+</pattern>
+
+<pattern number=5 theme=siir>
+weather bir nnoun "[Noun]+[A3sg]+Hn[P2sg]+[Nom]" preposition "[Noun]+[A3sg]+SH[P3sg]+NDA[Loc]"
+vehicle "[Noun]+lAr[A3pl]+[Pnon]+[Nom]" verb "[Verb]+[Pos]+Hyor[Prog1]+[A3sg]" date vakti
+nfeeling var location "[Noun]+[A3sg]+[Pnon]+DA[Loc]" yine
+ve amount beverage
+plant "[Noun]+lAr[A3pl]+[Pnon]+[Nom]" nverb "[Verb]+[Pos]+Hyor[Prog1]+[A3sg]" animal "[Noun]+lAr[A3pl]+[Pnon]+[Nom]" nverb "[Verb]+[Pos]+Hyor[Prog1]+[A3sg]"
+ama ben pverbi "[Verb]+[Pos]+Hyor[Prog1]+YHm[A1sg]" pronoun "[Pron]+[Pers]+[A2sg]+[Pnon]+NH[Acc]"
+pverbi "[Verb]+[Pos]+Hyor[Prog1]+YHm[A1sg]"
+yine bu season "[Noun]+[A3sg]+[Pnon]+DA[Loc]"
+</pattern>
